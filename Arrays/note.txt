@@ -1,0 +1,15 @@
+Array
+
+const arr = [1,2,3,'karthick',true];
+
+1. Arrays is data Structure that can be hold data values.
+2. Mix of the different data types you can store(strings,boolean,numbers or even objects) all in the same Array.
+3. Arrays are resiazable.
+4. JavaScript arrays are zero-indexed inseration.
+5. Arrays are iteration. They can be used with a (for of loop).
+
+
+
+High level
+
+Map, filter, reduce, concat, slice, splice
