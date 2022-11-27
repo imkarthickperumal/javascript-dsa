@@ -1,0 +1,7 @@
+Sets
+
+const set = new Sets([1,2,4]);
+
+1. Sets similar like arrays.
+2. Arrays can contain duplicate values whereas Sets cannot.
+3. Searching and deleting an element in the faster compared to arrays.
